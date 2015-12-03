@@ -31,7 +31,7 @@ namespace GUI
                // for (int i = 0; i < 3; i++)
             try
             {
-                List< ISalaryCalculator> Salary = new List<ISalaryCalculator>();
+                List< ISalaryCalculator> Salary = new List<ISalaryCalculator>(); // комментарий 
                 Salary.Add(new Hours(2, 4));
                 Salary.Add(new Month(2, -4, 6));
                 Salary.Add(new Rate(5, 2));

@@ -26,3 +26,6 @@ C:\Users\Настя\Desktop\моя\LabRab1\obj\Debug\GUI.RateForm.resources
 C:\Users\Настя\Desktop\моя\LabRab1\obj\Debug\GUI.Properties.Resources.resources
 C:\Users\Настя\Desktop\моя\LabRab1\obj\Debug\GUI.MonthForm.resources
 C:\Users\Настя\Desktop\моя\LabRab1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\GitHub\Lab1_3\LabRab1\bin\Debug\GUI.exe.config
+C:\Users\Настя\Documents\GitHub\Lab1_3\LabRab1\obj\Debug\GUI.exe
+C:\Users\Настя\Documents\GitHub\Lab1_3\LabRab1\obj\Debug\GUI.pdb
